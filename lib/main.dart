@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
 
+//managing states using valuenotifier
 void main() {
   runApp(const MyApp());
 }
